@@ -67,6 +67,6 @@ Diego Prates
 
 <div align="center">
 
-Desenvolvido por **<SEU NOME>**
+Desenvolvido por **Diego Prates**
 
 </div>
