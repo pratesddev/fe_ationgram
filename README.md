@@ -1,72 +1,69 @@
-# 🚀 Ationgram
+<div align="center">
 
-> Descrição curta e objetiva do projeto.
+# Ationgram
 
-[![Status](https://img.shields.io/badge/status-concluído-green)]()
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
+**Releitura responsiva da interface de login e cadastro do Instagram, com identidade visual própria.**
 
----
-
-## 📋 Sobre o projeto
-
-Releitura da página inicial e página de cadastro do Instagram com uma identidade visual própria.
-
-### Objetivo
-
-Treinar aprendizado em HTML e CSS criando uma página resposiva e utilizando display flex para organização de conteúdo.
-
-### Escopo
-
-O projeto inclui uma página inicial responsiva, apresentada em duas colunas, onde ao se enquadrar em determinado tamanho de tela fica em apenas uma coluna e também uma página de cadastro de usuário. Existe navegação entre as páginas e estilo próprio para todo o projeto.
-
-### Funcionalidades
-
-- [ ] Navegação entre páginas
+</div>
 
 ---
 
-## 📁 Estrutura do projeto
+## 📖 Sobre
 
-```text
-fe_ationgram/
-├── assets/
-├── index.html
-├── signup.html
-├── style.css
-├── README.md
-└── ...
+Este projeto apresenta uma página inicial de login e uma página de cadastro inspiradas visualmente no Instagram. Foi desenvolvido como exercício prático de HTML5 e CSS durante o curso **Domine Web - 20 Cursos**, na Udemy, com foco em responsividade, Flexbox e organização de páginas.
 
 ---
 
-## ⚙️ Instalação
+## ✨ Funcionalidades
 
-### 1. Clonar o repositório
+- [x] Página inicial com área de login
+- [x] Página de cadastro de usuário
+- [x] Navegação entre login e cadastro
+- [x] Layout responsivo com Flexbox
+- [x] Estilização própria com CSS
 
-```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_PROJETO>
-```
+---
 
-## 🗺️ Roadmap
+## 🛠 Tecnologias
 
-- [x] Estrutura inicial
-- [ ] Página de feed
+- HTML5
+- CSS3
+
+---
+
+## 🚀 Começando
+
+### Pré-requisitos
+
+- Navegador web atualizado
+
+### Executando
+
+Não há dependências ou processo de instalação.
+
+1. Faça o download ou clone deste repositório.
+2. Abra o arquivo `index.html` diretamente no navegador.
+
+Também é possível executar o projeto com uma extensão como Live Server.
+
+---
+
+## 💻 Uso
+
+Utilize a página inicial para visualizar a interface de login. Para acessar o formulário de cadastro, clique em **Cadastre-se** no link disponível abaixo do painel de login.
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença **MIT**.
 
 ---
 
 ## 👤 Autor
 
-Diego Prates
+**Diego Prates**
 
-- GitHub: [![pratesddev](https://img.shields.io/badge/pratesddev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratesddev)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prates-diego)
-- E-mail: [![contato](https://img.shields.io/badge/Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmoprates1@gmail.com)
-
----
-
-<div align="center">
-
-Desenvolvido por **Diego Prates**
-
-</div>
+- GitHub: [@pratesddev](https://github.com/pratesddev)
+- LinkedIn: [Diego Prates](https://linkedin.com/in/prates-diego)
+- E-mail: [dmoprates1@gmail.com](mailto:dmoprates1@gmail.com)
