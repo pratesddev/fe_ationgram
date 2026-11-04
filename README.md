@@ -1,10 +1,6 @@
-<div align="center">
-
 # Ationgram
 
 **Releitura responsiva da interface de login e cadastro do Instagram, com identidade visual própria.**
-
-</div>
 
 ---
 
@@ -62,7 +58,7 @@ Distribuído sob a licença **MIT**.
 
 ## 👤 Autor
 
-**Diego Prates**
+Diego Prates
 
 - GitHub: [@pratesddev](https://github.com/pratesddev)
 - LinkedIn: [Diego Prates](https://linkedin.com/in/prates-diego)
